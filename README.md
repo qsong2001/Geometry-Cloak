@@ -9,7 +9,15 @@ To set the running environment, please refer to [TGS](https://github.com/VAST-AI
 
 The codes are provided in test_geometry_cloak.ipynb
 
-
+If you find our paper useful for your work please cite:
+```
+@inproceedings{song2024geometry,
+  author    = {Song, Qi and Luo, Ziyuan and Cheung, Ka Chun and See, Simon and Wan, Renjie},
+  title     = {Geometry Cloak: Preventing TGS-based 3D Reconstruction from Copyrighted Images},
+  booktitle   = {NeurIPS},
+  year      = {2024},
+}
+```
 
 # Acknowledgement
 
@@ -19,7 +27,7 @@ The codes are provided in test_geometry_cloak.ipynb
   @inproceedings{zou2024triplane,
   title={Triplane meets gaussian splatting: Fast and generalizable single-view 3d reconstruction with transformers},
   author={Zou, Zi-Xin and Yu, Zhipeng and Guo, Yuan-Chen and Li, Yangguang and Liang, Ding and Cao, Yan-Pei and Zhang, Song-Hai},
-  booktitle={CVPR,
+  booktitle={CVPR},
   pages={10324--10335},
   year={2024}}
 
@@ -30,3 +38,5 @@ The codes are provided in test_geometry_cloak.ipynb
   year={2023}}
 
     ```
+
+
